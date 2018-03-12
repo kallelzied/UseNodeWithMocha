@@ -1,0 +1,14 @@
+{
+  "name": "tuto",
+  "version": "1.0.0",
+  "description": "using mocha with node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha ./test/**/*.spec.js"
+  },
+  "author": "Zied Kallel",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.0.4"
+  }
+}
